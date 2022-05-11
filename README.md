@@ -1,8 +1,8 @@
 # Study Oppa (RU Hacks 2022)
 
-### :trophy: *The Wolfram Award | Top 10 Projects*
-
-<p> Wow! this is our Bot that we're making for RUHacks 2022 </p>
+#### :trophy: *The Wolfram Award | Top 10 Projects*
+<br/>
+<p> Wow! this is our Bot that we made for RUHacks 2022 </p>
 <p> Come visit check out our Devpost <a href="https://devpost.com/software/study-oppa">here</a></p>
 
 #### Here's what our bot can and cannot do
